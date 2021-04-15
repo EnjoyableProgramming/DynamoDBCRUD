@@ -1,0 +1,609 @@
+{
+    "Music": [
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "High Voltage",
+            "label": "Festival Records",
+            "year": 1975,
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Baby, Please Don't Go"
+                },
+                {
+                    "title": "She's Got Balls"
+                },
+                {
+                    "title": "Little Lover"
+                },
+                {
+                    "title": "Stick Around"
+                },
+                {
+                    "title": "Soul Stripper"
+                },
+                {
+                    "title": "You Ain't Got a Hold on Me"
+                },
+                {
+                    "title": "Love Song"
+                },
+                {
+                    "title": "Show Business"
+                }
+            ]
+        },
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "T.N.T.",
+            "label": "Albert Studios",
+            "year": 1975,
+            "duration": "41:59",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+                    "time": "05:15"
+                },
+                {
+                    "title": "Rock 'N' Roll Singer",
+                    "time": "05:04"
+                },
+                {
+                    "title": "The Jack",
+                    "time": "05:51"
+                },
+                {
+                    "title": "Live Wire",
+                    "time": "05:50"
+                },
+                {
+                    "title": "T.N.T.",
+                    "time": "03:34"
+                },
+                {
+                    "title": "Rocker",
+                    "time": "02:49"
+                },
+                {
+                    "title": "Can I Sit Next to You Girl",
+                    "time": "04:11"
+                },
+                {
+                    "title": "High Voltage",
+                    "time": "04:02"
+                },
+                {
+                    "title": "School Days",
+                    "time": "05:23"
+                }
+            ]
+        },
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "High Voltage v2",
+            "label": "Epic",
+            "year": 1976,
+            "duration": "44:19",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+                    "time": "05:16"
+                },
+                {
+                    "title": "Rock 'n' Roll Singer",
+                    "time": "05:04"
+                },
+                {
+                    "title": "The Jack",
+                    "time": "05:52"
+                },
+                {
+                    "title": "Live Wire",
+                    "time": "05:50"
+                },
+                {
+                    "title": "T.N.T.",
+                    "time": "03:34"
+                },
+                {
+                    "title": "Can I Sit Next to You Girl",
+                    "time": "04:12"
+                },
+                {
+                    "title": "Little Lover",
+                    "time": "05:37"
+                },
+                {
+                    "title": "She's Got Balls",
+                    "time": "04:51"
+                },
+                {
+                    "title": "High Voltage",
+                    "time": "04:03"
+                }
+            ]
+        },
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "Dirty Deeds Done Dirt Cheap",
+            "label": "Epic",
+            "year": 1976,
+            "duration": "39:09",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Dirty Deeds Done Dirt Cheap",
+                    "time": "04:11"
+                },
+                {
+                    "title": "Love at First Feel",
+                    "time": "03:12"
+                },
+                {
+                    "title": "Big Balls",
+                    "time": "02:38"
+                },
+                {
+                    "title": "Rocker",
+                    "time": "02:51"
+                },
+                {
+                    "title": "Problem Child",
+                    "time": "05:46"
+                },
+                {
+                    "title": "There's Gonna Be Some Rockin'",
+                    "time": "03:18"
+                },
+                {
+                    "title": "Ain't No Fun (Waiting Round to Be a Millionaire)",
+                    "time": "07:29"
+                },
+                {
+                    "title": "Ride On",
+                    "time": "05:53"
+                },
+                {
+                    "title": "Squealer",
+                    "time": "05:27"
+                }
+            ]
+        },
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "Let There Be Rock",
+            "label": "Sony",
+            "year": 1977,
+            "duration": "40:58",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Go Down",
+                    "time": "05:31"
+                },
+                {
+                    "title": "Dog Eat Dog",
+                    "time": "03:34"
+                },
+                {
+                    "title": "Let There Be Rock",
+                    "time": "06:06"
+                },
+                {
+                    "title": "Bad Boy Boogie",
+                    "time": "04:27"
+                },
+                {
+                    "title": "Problem Child",
+                    "time": "05:24"
+                },
+                {
+                    "title": "Overdose",
+                    "time": "06:09"
+                },
+                {
+                    "title": "Hell Ain't a Bad Place to Be",
+                    "time": "04:14"
+                },
+                {
+                    "title": "Whole Lotta Rosie",
+                    "time": "05:33"
+                }
+            ]
+        },
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "Powerage",
+            "label": "Epic",
+            "year": 1978,
+            "duration": "39:24",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Rock 'n' Roll Damnation",
+                    "time": "03:37"
+                },
+                {
+                    "title": "Down Payment Blues",
+                    "time": "06:03"
+                },
+                {
+                    "title": "Gimme a Bullet",
+                    "time": "03:21"
+                },
+                {
+                    "title": "Riff Raff",
+                    "time": "05:12"
+                },
+                {
+                    "title": "Sin City",
+                    "time": "04:45"
+                },
+                {
+                    "title": "What's Next to the Moon",
+                    "time": "03:31"
+                },
+                {
+                    "title": "Gone Shootin'",
+                    "time": "05:05"
+                },
+                {
+                    "title": "Up to My Neck in You",
+                    "time": "04:13"
+                },
+                {
+                    "title": "Kicked in the Teeth",
+                    "time": "03:53"
+                }
+            ]
+        },
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "If You Want Blood You've Got It",
+            "label": "Legacy",
+            "year": 1978,
+            "duration": "51:37",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Riff Raff",
+                    "time": "05:59"
+                },
+                {
+                    "title": "Hell Ain't a Bad Place to Be",
+                    "time": "04:10"
+                },
+                {
+                    "title": "Bad Boy Boogie",
+                    "time": "07:29"
+                },
+                {
+                    "title": "The Jack",
+                    "time": "05:48"
+                },
+                {
+                    "title": "Problem Child",
+                    "time": "04:40"
+                },
+                {
+                    "title": "Whole Lotta Rosie",
+                    "time": "04:05"
+                },
+                {
+                    "title": "Rock 'N' Roll Damnation",
+                    "time": "03:41"
+                },
+                {
+                    "title": "High Voltage",
+                    "time": "05:05"
+                },
+                {
+                    "title": "Let There Be Rock",
+                    "time": "08:33"
+                },
+                {
+                    "title": "Rocker",
+                    "time": "03:24"
+                }
+            ]
+        },
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "Highway to Hell",
+            "label": "Epic",
+            "year": 1979,
+            "duration": "41:38",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Highway to Hell",
+                    "time": "03:28"
+                },
+                {
+                    "title": "Girls Got Rhythm",
+                    "time": "03:23"
+                },
+                {
+                    "title": "Walk All Over You",
+                    "time": "05:10"
+                },
+                {
+                    "title": "Touch Too Much",
+                    "time": "04:26"
+                },
+                {
+                    "title": "Beating Around the Bush",
+                    "time": "03:55"
+                },
+                {
+                    "title": "Shot Down in Flames",
+                    "time": "03:22"
+                },
+                {
+                    "title": "Get It Hot",
+                    "time": "02:34"
+                },
+                {
+                    "title": "If You Want Blood (You've Got It)",
+                    "time": "04:36"
+                },
+                {
+                    "title": "Love Hungry Man",
+                    "time": "04:17"
+                },
+                {
+                    "title": "Night Prowler",
+                    "time": "06:27"
+                }
+            ]
+        },
+        {
+            "GroupID": "AC/DC",
+            "AlbumID": "Back in Black",
+            "label": "Sony",
+            "year": 1980,
+            "duration": "42:04",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Hells Bells",
+                    "time": "05:12"
+                },
+                {
+                    "title": "Shoot to Thrill",
+                    "time": "05:17"
+                },
+                {
+                    "title": "What Do You Do For Money Honey",
+                    "time": "03:35"
+                },
+                {
+                    "title": "Givin' the Dog a Bone",
+                    "time": "03:31"
+                },
+                {
+                    "title": "Let Me Put My Love Into You",
+                    "time": "04:15"
+                },
+                {
+                    "title": "Back In Black",
+                    "time": "04:15"
+                },
+                {
+                    "title": "You Shook Me All Night Long",
+                    "time": "03:30"
+                },
+                {
+                    "title": "Have a Drink On Me",
+                    "time": "03:58"
+                },
+                {
+                    "title": "Shake a Leg",
+                    "time": "04:05"
+                },
+                {
+                    "title": "Rock and Roll Ain't Noise Pollution",
+                    "time": "04:26"
+                }
+            ]
+        },
+        {
+            "GroupID": "Kiss",
+            "AlbumID": "Kiss",
+            "label": "Mercury",
+            "year": 1974,
+            "duration": "35:11",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Strutter",
+                    "time": "03:12"
+                },
+                {
+                    "title": "Nothin' to Lose",
+                    "time": "03:29"
+                },
+                {
+                    "title": "Firehouse",
+                    "time": "03:19"
+                },
+                {
+                    "title": "Cold Gin",
+                    "time": "04:23"
+                },
+                {
+                    "title": "Let Me Know",
+                    "time": "03:01"
+                },
+                {
+                    "title": "Kissin' Time",
+                    "time": "03:54"
+                },
+                {
+                    "title": "Deuce",
+                    "time": "03:08"
+                },
+                {
+                    "title": "Love Theme from Kiss",
+                    "time": "02:26"
+                },
+                {
+                    "title": "100,000 Years",
+                    "time": "03:25"
+                },
+                {
+                    "title": "Black Diamond",
+                    "time": "05:14"
+                }
+            ]
+        },
+        {
+            "GroupID": "Kiss",
+            "AlbumID": "Hotter Than Hell",
+            "label": "Mercury",
+            "year": 1974,
+            "duration": "26:07",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Got to Choose",
+                    "time": "03:54"
+                },
+                {
+                    "title": "Parasite",
+                    "time": "03:01"
+                },
+                {
+                    "title": "Goin' Blind",
+                    "time": "03:36"
+                },
+                {
+                    "title": "Hotter Than Hell",
+                    "time": "03:31"
+                },
+                {
+                    "title": "Let Me Go, Rock 'n' Roll",
+                    "time": "02:14"
+                },
+                {
+                    "title": "All the Way",
+                    "time": "03:18"
+                },
+                {
+                    "title": "Watchin' You",
+                    "time": "03:43"
+                },
+                {
+                    "title": "Mainline",
+                    "time": "03:50"
+                },
+                {
+                    "title": "Comin' Home",
+                    "time": "02:37"
+                },
+                {
+                    "title": "Strange Ways",
+                    "time": "03:18"
+                }
+            ]
+        },
+        {
+            "GroupID": "Kiss",
+            "AlbumID": "Dressed to Kill",
+            "label": "Mercury",
+            "year": 1975,
+            "duration": "30:07",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Room Service",
+                    "time": "02:59"
+                },
+                {
+                    "title": "Two Timer",
+                    "time": "02:47"
+                },
+                {
+                    "title": "Ladies in Waiting",
+                    "time": "02:35"
+                },
+                {
+                    "title": "Getaway",
+                    "time": "02:43"
+                },
+                {
+                    "title": "Rock Bottom",
+                    "time": "03:54"
+                },
+                {
+                    "title": "C'mon and Love Me",
+                    "time": "02:57"
+                },
+                {
+                    "title": "Anything for My Baby",
+                    "time": "02:35"
+                },
+                {
+                    "title": "She",
+                    "time": "04:08"
+                },
+                {
+                    "title": "Love Her All I Can",
+                    "time": "02:40"
+                },
+                {
+                    "title": "Rock and Roll All Nite",
+                    "time": "02:49"
+                }
+            ]
+        },
+        {
+            "GroupID": "Kiss",
+            "AlbumID": "Alive!",
+            "label": "Mercury",
+            "year": 1975,
+            "duration": "01:14:50",
+            "genre": "Pop/Rock",
+            "songs": [
+                {
+                    "title": "Deuce",
+                    "time": "03:44"
+                },
+                {
+                    "title": "Strutter",
+                    "time": "03:17"
+                },
+                {
+                    "title": "Got to Choose",
+                    "time": "03:35"
+                },
+                {
+                    "title": "Hotter Than Hell",
+                    "time": "03:12"
+                },
+                {
+                    "title": "Firehouse",
+                    "time": "03:59"
+                },
+                {
+                    "title": "Nothin' to Lose",
+                    "time": "03:29"
+                },
+                {
+                    "title": "C'mon and Love Me",
+                    "time": "02:53"
+                },
+                {
+                    "title": "Parasite",
+                    "time": "03:22"
+                },
+                {
+                    "title": "She",
+                    "time": "06:55"
+                }
+            ]
+        }
+    ]
+}
